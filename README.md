@@ -57,9 +57,9 @@ Engineering graduate passionate about Cloud Computing, DevOps, Linux, AWS, Kuber
 
 # 📫 Connect With Me
 
-* GitHub: Add your GitHub link
-* LinkedIn: Add your LinkedIn link
-* Email: Add your email
+* GitHub: https://github.com/aman-k-rai/aman-k-rai
+* LinkedIn: www.linkedin.com/in/aman-krai
+* Email: aman.k.rai@outlook.com
 
 ---
 
