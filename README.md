@@ -21,7 +21,6 @@ Engineering graduate passionate about Cloud Computing, DevOps, Linux, AWS, Kuber
 * Kubernetes
 * Terraform
 * NGINX
-* Apache
 * Git & GitHub
 * Linux
 * CI/CD
